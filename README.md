@@ -5,6 +5,6 @@
 <ul>
   <li>Red dots are estimated above the line</li>
   <li>Blue dots are estimated under the line</li>
-  <li>Green discontinued line represents the perceptron estimated separation line
+  <li>Green discontinued line represents the perceptron's estimated separation line
 </li>
 </ul>
