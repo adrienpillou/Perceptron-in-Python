@@ -9,4 +9,4 @@
 </li>
 </ul>
 
-All the code in this repo is open source !
+<i>All the code in this repo is open source !</i>
