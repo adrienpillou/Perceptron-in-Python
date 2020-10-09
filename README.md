@@ -8,3 +8,5 @@
   <li>Green discontinued line represents the perceptron's estimated separation line
 </li>
 </ul>
+
+All the code in this repo is open source !
