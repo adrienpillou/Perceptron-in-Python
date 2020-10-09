@@ -1,5 +1,5 @@
 # Perceptron-in-Python
-## A simple perceptron (neural network basic element) made in Python.
+## A simple perceptron (neural network basic element) library made in Python.
 
 <img src = "https://github.com/adrienpillou/Perceptron-in-Python/blob/main/Figure_1.png">
 <ul>
